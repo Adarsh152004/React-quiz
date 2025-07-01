@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adarsh152004/React-quiz.git/static/css/main.12456aec.css",
+    "main.js": "/Adarsh152004/React-quiz.git/static/js/main.dea93142.js",
+    "index.html": "/Adarsh152004/React-quiz.git/index.html",
+    "main.12456aec.css.map": "/Adarsh152004/React-quiz.git/static/css/main.12456aec.css.map",
+    "main.dea93142.js.map": "/Adarsh152004/React-quiz.git/static/js/main.dea93142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12456aec.css",
+    "static/js/main.dea93142.js"
+  ]
+}
