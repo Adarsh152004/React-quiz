@@ -18,7 +18,7 @@ const initialState = {
   questions: [],
   topics: [],
   answer: null,
-  index: 9,
+  index: 0,
   highscore: 0,
   points: 0,
   status: 'loading',

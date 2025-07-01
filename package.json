@@ -18,7 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch data/questions.json --port 8000"
+    "server": "json-server --watch data/questions.json --port 8000",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -26,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://Adarsh152004.github.io/React-quiz",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -37,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
