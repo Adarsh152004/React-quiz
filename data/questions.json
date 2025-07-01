@@ -1,0 +1,879 @@
+{
+  "topics": [
+        {
+      "topic": "HTML",
+      "questions": [
+        {
+          "question": "Which HTML tag is used to create a hyperlink?",
+          "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<url>"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which tag defines a table row in HTML?",
+          "options": [
+            "<row>",
+            "<tr>",
+            "<td>",
+            "<th>"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which tag is used to display an image?",
+          "options": [
+            "<img>",
+            "<image>",
+            "<pic>",
+            "<src>"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which HTML attribute is used to define inline styles?",
+          "options": [
+            "style",
+            "css",
+            "styles",
+            "class"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the <br> tag do?",
+          "options": [
+            "Makes text bold",
+            "Adds space",
+            "Inserts a line break",
+            "Starts a new paragraph"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which doctype declaration is correct for HTML5?",
+          "options": [
+            "<!DOCTYPE HTML PUBLIC>",
+            "<!DOCTYPE html>",
+            "<DOCTYPE html>",
+            "<!html5>"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which tag is used for the largest heading?",
+          "options": [
+            "<heading>",
+            "<h1>",
+            "<head>",
+            "<h6>"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which HTML tag is used to define a list item?",
+          "options": [
+            "<ul>",
+            "<li>",
+            "<ol>",
+            "<list>"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which attribute is used to uniquely identify an element?",
+          "options": [
+            "name",
+            "class",
+            "id",
+            "style"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the <form> tag do?",
+          "options": [
+            "Creates a text area",
+            "Links a CSS file",
+            "Defines a form",
+            "Inserts an image"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        }
+      ]
+    },
+      {
+    "topic": "CSS",
+    "questions": [
+      {
+        "question": "What does CSS stand for?",
+        "options": [
+          "Creative Style Sheets",
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which property is used to change the background color?",
+        "options": [
+          "color",
+          "background-color",
+          "bg-color",
+          "background"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which CSS property controls text size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "font-style",
+          "text-style"
+        ],
+        "correctOption": 0,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the CSS box model?",
+        "options": [
+          "A way to create boxes",
+          "Content, padding, border, margin",
+          "A design pattern",
+          "A JavaScript concept"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which display value removes an element from the document flow?",
+        "options": [
+          "display: block",
+          "display: inline",
+          "display: none",
+          "display: hidden"
+        ],
+        "correctOption": 2,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is flexbox used for?",
+        "options": [
+          "Creating animations",
+          "Layout and alignment",
+          "Adding colors",
+          "Creating forms"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which property is used to create space between elements?",
+        "options": [
+          "padding",
+          "margin",
+          "spacing",
+          "gap"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the CSS Grid?",
+        "options": [
+          "A two-dimensional layout system",
+          "A one-dimensional layout system",
+          "A color scheme",
+          "A font family"
+        ],
+        "correctOption": 0,
+        "points": 30,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which pseudo-class selects the first child element?",
+        "options": [
+          ":first",
+          ":first-child",
+          ":child-first",
+          ":initial"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does the z-index property control?",
+        "options": [
+          "Element width",
+          "Element height",
+          "Stacking order",
+          "Font size"
+        ],
+        "correctOption": 2,
+        "points": 20,
+        "difficulty": "medium"
+      }
+    ]
+  },
+      {
+      "topic": "JavaScript",
+      "questions": [
+        {
+          "question": "Which keyword declares a variable in JavaScript?",
+          "options": [
+            "var",
+            "let",
+            "const",
+            "all of the above"
+          ],
+          "correctOption": 3,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which method adds an element to the end of an array?",
+          "options": [
+            "add()",
+            "push()",
+            "insert()",
+            "append()"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which symbol is used for strict equality?",
+          "options": [
+            "==",
+            "===",
+            "!=",
+            "="
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which method converts a string to an integer?",
+          "options": [
+            "parseInt()",
+            "int()",
+            "Number()",
+            "toInteger()"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which operator checks both value and type?",
+          "options": [
+            "==",
+            "!=",
+            "===",
+            "="
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is the output of typeof null?",
+          "options": [
+            "null",
+            "object",
+            "undefined",
+            "boolean"
+          ],
+          "correctOption": 1,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which function is used to execute code repeatedly with a delay?",
+          "options": [
+            "setInterval()",
+            "setTimeout()",
+            "delay()",
+            "loop()"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is an IIFE?",
+          "options": [
+            "A loop",
+            "A function that executes immediately",
+            "A variable scope",
+            "An error handler"
+          ],
+          "correctOption": 1,
+          "points": 30,
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which object represents the browser window in JavaScript?",
+          "options": [
+            "document",
+            "window",
+            "screen",
+            "global"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is a closure?",
+          "options": [
+            "A function that returns another function",
+            "A function with access to its outer scope",
+            "A block of code",
+            "A way to close a browser tab"
+          ],
+          "correctOption": 1,
+          "points": 30,
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "topic": "MongoDB",
+      "questions": [
+        {
+          "question": "Which of the following is not a valid MongoDB data type?",
+          "options": [
+            "String",
+            "Boolean",
+            "Float",
+            "Symbol"
+          ],
+          "correctOption": 2,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is the default port for MongoDB?",
+          "options": [
+            "27017",
+            "3306",
+            "8080",
+            "5432"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which command retrieves all documents in a MongoDB collection?",
+          "options": [
+            "db.get()",
+            "db.collection.all()",
+            "db.collection.find()",
+            "db.query()"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which MongoDB command is used to insert one document?",
+          "options": [
+            "insertOne",
+            "add",
+            "push",
+            "addOne"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which method is used to remove documents from a collection?",
+          "options": [
+            "delete()",
+            "remove()",
+            "deleteOne()",
+            "drop()"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is a document in MongoDB?",
+          "options": [
+            "A row in a table",
+            "A JSON-like object",
+            "A collection of data types",
+            "A file"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which function creates an index in MongoDB?",
+          "options": [
+            "create()",
+            "index()",
+            "createIndex()",
+            "setIndex()"
+          ],
+          "correctOption": 2,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "How can you limit the number of documents returned in a find()?",
+          "options": [
+            "db.limit()",
+            "db.find().limit()",
+            "db.find(limit)",
+            "db.find().max()"
+          ],
+          "correctOption": 1,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which method is used to update multiple documents?",
+          "options": [
+            "update()",
+            "updateMany()",
+            "set()",
+            "modifyMany()"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is the primary key field in MongoDB documents?",
+          "options": [
+            "_id",
+            "id",
+            "key",
+            "primary"
+          ],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+    "topic": "React",
+    "questions": [
+      {
+        "question": "Which method is used to create a React component?",
+        "options": [
+          "React.createComponent()",
+          "React.Component()",
+          "class MyComponent extends React.Component",
+          "React.makeComponent()"
+        ],
+        "correctOption": 2,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is JSX?",
+        "options": [
+          "A JavaScript framework",
+          "A syntax extension for JavaScript",
+          "A CSS preprocessor",
+          "A database"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which hook is used to manage state in functional components?",
+        "options": [
+          "useEffect",
+          "useState",
+          "useContext",
+          "useReducer"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the virtual DOM?",
+        "options": [
+          "A copy of the real DOM kept in memory",
+          "A new version of HTML",
+          "A CSS framework",
+          "A JavaScript library"
+        ],
+        "correctOption": 0,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which lifecycle method is called after component mounts?",
+        "options": [
+          "componentWillMount",
+          "componentDidMount",
+          "componentWillUpdate",
+          "componentDidUpdate"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "How do you pass data from parent to child component?",
+        "options": [
+          "Using state",
+          "Using props",
+          "Using context",
+          "Using refs"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the purpose of useEffect hook?",
+        "options": [
+          "To manage state",
+          "To handle side effects",
+          "To create components",
+          "To handle events"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which method is used to update state in class components?",
+        "options": [
+          "this.state = newState",
+          "this.setState()",
+          "this.updateState()",
+          "this.changeState()"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is React Router used for?",
+        "options": [
+          "State management",
+          "Navigation and routing",
+          "API calls",
+          "Styling components"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which of the following is not a valid React hook?",
+        "options": [
+          "useState",
+          "useEffect",
+          "useComponent",
+          "useContext"
+        ],
+        "correctOption": 2,
+        "points": 20,
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "topic": "Node.js",
+    "questions": [
+      {
+        "question": "What is Node.js?",
+        "options": [
+          "A JavaScript framework",
+          "A JavaScript runtime environment",
+          "A database",
+          "A CSS preprocessor"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which module is used for file system operations?",
+        "options": [
+          "http",
+          "fs",
+          "path",
+          "url"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is npm?",
+        "options": [
+          "Node Package Manager",
+          "New Programming Method",
+          "Node Programming Module",
+          "Network Protocol Manager"
+        ],
+        "correctOption": 0,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which method is used to create an HTTP server?",
+        "options": [
+          "http.server()",
+          "http.createServer()",
+          "http.makeServer()",
+          "http.newServer()"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is Express.js?",
+        "options": [
+          "A database",
+          "A web framework for Node.js",
+          "A CSS framework",
+          "A testing library"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which method is used to handle POST requests in Express?",
+        "options": [
+          "app.post()",
+          "app.get()",
+          "app.put()",
+          "app.request()"
+        ],
+        "correctOption": 0,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is middleware in Express?",
+        "options": [
+          "A database connection",
+          "Functions that execute during request-response cycle",
+          "A routing mechanism",
+          "A templating engine"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which command installs a package globally?",
+        "options": [
+          "npm install package",
+          "npm install -g package",
+          "npm global package",
+          "npm add package"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the event loop in Node.js?",
+        "options": [
+          "A for loop",
+          "A mechanism that handles asynchronous operations",
+          "A database query",
+          "A HTTP request"
+        ],
+        "correctOption": 1,
+        "points": 30,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which module is used to work with URLs?",
+        "options": [
+          "http",
+          "fs",
+          "url",
+          "path"
+        ],
+        "correctOption": 2,
+        "points": 20,
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "topic": "Backend Development",
+    "questions": [
+      {
+        "question": "What is an API?",
+        "options": [
+          "Application Programming Interface",
+          "Automated Program Integration",
+          "Advanced Programming Implementation",
+          "Application Protocol Interface"
+        ],
+        "correctOption": 0,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which HTTP method is used to retrieve data?",
+        "options": [
+          "POST",
+          "GET",
+          "PUT",
+          "DELETE"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does REST stand for?",
+        "options": [
+          "Representational State Transfer",
+          "Remote Service Technology",
+          "Reliable System Transfer",
+          "Resource State Transition"
+        ],
+        "correctOption": 0,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which status code indicates a successful request?",
+        "options": [
+          "404",
+          "500",
+          "200",
+          "301"
+        ],
+        "correctOption": 2,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is JSON?",
+        "options": [
+          "JavaScript Object Notation",
+          "Java Standard Object Network",
+          "JavaScript Online Notation",
+          "Java System Object Name"
+        ],
+        "correctOption": 0,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which HTTP method is used to update data?",
+        "options": [
+          "GET",
+          "POST",
+          "PUT",
+          "PATCH"
+        ],
+        "correctOption": 2,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is middleware in backend development?",
+        "options": [
+          "Database queries",
+          "Functions that process requests before reaching route handlers",
+          "Frontend components",
+          "CSS frameworks"
+        ],
+        "correctOption": 1,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is authentication?",
+        "options": [
+          "Verifying user identity",
+          "Encrypting data",
+          "Caching responses",
+          "Routing requests"
+        ],
+        "correctOption": 0,
+        "points": 20,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which database type is MongoDB?",
+        "options": [
+          "Relational",
+          "NoSQL",
+          "Graph",
+          "Key-value"
+        ],
+        "correctOption": 1,
+        "points": 10,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is CRUD?",
+        "options": [
+          "Create, Read, Update, Delete",
+          "Connect, Retrieve, Upload, Download",
+          "Cache, Route, Update, Deploy",
+          "Code, Run, Update, Debug"
+        ],
+        "correctOption": 0,
+        "points": 20,
+        "difficulty": "medium"
+      }
+    ]
+  }
+]
+}
